@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(74, 83, 216);
+}
+.main, .text{
+    color:rgb(181, 172, 39);
+}
+.main{
+    font-size: 30px;
+}
+.top{
+    font-size: 100px;
+    font-family: fantasy;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color:azure;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
