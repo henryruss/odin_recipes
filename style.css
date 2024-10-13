@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(74, 83, 216);
+    background-color:rgb(74, 147, 216);
 }
 .main, .text{
     color:rgb(181, 172, 39);
@@ -23,4 +23,11 @@ div{
 }
 img{
     text-align: center;
+}
+div.border{
+    margin-bottom: 50px;
+    border-top: groove seagreen 25px;
+    border-bottom: groove darkseagreen 25px;
+    border-left: groove turquoise 25px;
+    border-right: groove cyan 25px;
 }
